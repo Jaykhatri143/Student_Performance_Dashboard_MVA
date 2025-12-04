@@ -1,0 +1,22 @@
+[
+    {
+        "class_start": 1,
+        "class_end": 5,
+        "pages": 5
+    },
+    {
+        "class_start": 6,
+        "class_end": 8,
+        "pages": 10
+    },
+    {
+        "class_start": 9,
+        "class_end": 10,
+        "pages": 15
+    },
+    {
+        "class_start": 11,
+        "class_end": 12,
+        "pages": 20
+    }
+]

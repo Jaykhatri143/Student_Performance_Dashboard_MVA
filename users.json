@@ -1,0 +1,75 @@
+{
+    "admin": {
+        "password": "$2b$12$XcWECck7M5BQbC6K3gaXG.b47ftqkvJzIhbRWWkVLJE2y2k9/XrrO",
+        "role": "admin",
+        "audit_log": [
+            "Password changed on 2025-11-30 10:15"
+        ]
+    },
+    "vista": {
+        "password": "$2b$12$jknwkXHgpVrtk0eZ7UHgQe.jj040frpzeT/VuTAwFhOCUP/FKYwRG",
+        "plain_password": "vista",
+        "role": "incharge",
+        "audit_log": [
+            "Password changed on 2025-11-29 17:33"
+        ],
+        "assigned_classes": [
+            "8th",
+            "7th"
+        ],
+        "assigned_sections": {
+            "8th": [],
+            "7th": []
+        }
+    },
+    "petal": {
+        "password": "$2b$12$UX/tqhqQ.v4PZFeKZBm1uOR3vENACEiMYtXksvzdMF13FJpXSxF5S",
+        "plain_password": "petal",
+        "role": "incharge",
+        "audit_log": []
+    },
+    "nitya": {
+        "password": "$2b$12$3cKhK3M/EO1dGi2ZEyAmVOQpcngd/Mo3Jsqj8XZbp2jZgW37OzFp2",
+        "plain_password": "nitya",
+        "role": "incharge",
+        "audit_log": []
+    },
+    "pratham rathi": {
+        "password": "$2b$12$8iCnyzjKBtqjJm25C/RGOeaJ0gsNGR.cJ5pJM1gGhJD7RTY9yLOru",
+        "plain_password": "petals",
+        "role": "incharge",
+        "audit_log": []
+    },
+    "pankaj": {
+        "password": "$2b$12$Jw0NwLqkDGN8Ou.6sZJTVuHTriG0FYOpx9RDbSPqMHS7PWIkjHyYy",
+        "plain_password": "pankaj",
+        "role": "guruji",
+        "audit_log": [],
+        "assigned_class": "8th",
+        "assigned_section": "ALPHA AI"
+    },
+    "gourav": {
+        "password": "$2b$12$bc9MC7fBBLOGi44Qaqz2D.2NdB5SzTVaZ7Xmud/vutkwEzJHHb21q",
+        "plain_password": "gourav",
+        "role": "guruji",
+        "audit_log": [],
+        "assigned_class": "8th",
+        "assigned_section": "CHATBOT TITANS"
+    },
+    "jitu": {
+        "password": "$2b$12$UOJSbrsrqPLI7oc.aJv16u/sgV3PIB9oaHTMWvlZfbGJcpzChWUWC",
+        "plain_password": "jitu",
+        "role": "guruji",
+        "audit_log": [],
+        "assigned_class": "8th",
+        "assigned_section": "ROBOMIND"
+    },
+    "rajesh": {
+        "password": "$2b$12$vtTNlVN82a2EmBawlAi38eThRtJTGQxiTA7ERjOm6yBCqgSlmLE.i",
+        "plain_password": "rajesh",
+        "role": "guruji",
+        "audit_log": [],
+        "assigned_class": "8th",
+        "assigned_section": "INFINITY BOT"
+    }
+}
